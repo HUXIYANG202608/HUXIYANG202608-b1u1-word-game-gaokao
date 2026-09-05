@@ -1,8 +1,8 @@
-# B1U1 词汇闯关
+# B1U6 词汇闯关
 
 外研版必修一 单元词汇一轮复习闯关小游戏（单文件网页，音频内联，离线可用）。
 
-- 🎮 在线试玩：https://huxiyang202608.github.io/HUXIYANG202608-b1u1-word-game-gaokao/
+- 🎮 在线试玩：https://huxiyang202608.github.io/HUXIYANG202608-b1u6-word-game-gaokao/
 - 🧩 玩法：拼写挑战 / 听音辨词 / 一词多义 / 形近词辨析 / 短语闯关
 - 📚 配套：精讲词表 + 60 题练习题 + 使用说明（见学科网打包）
 - ✍️ 作者：晨曦英语 · 胡老师 ｜ 公众号：晨曦英语与AI随行
